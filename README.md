@@ -1,3 +1,3 @@
 # HDXMU
 ## Hyperbola detection datasets
-### copy right : Zhijun Long Xiamen university
+### copy right : Zhijun Long; Xiamen university
