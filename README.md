@@ -1,3 +1,2 @@
-# HDXMU
-## Hyperbola detection datasets
-### copy right : Zhijun Long; Xiamen university
+# MYSQL
+## libmysqlclient.so.20
